@@ -62,7 +62,7 @@
 6. VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models (CoRL-2023) <br>
 [[paper]](https://voxposer.github.io/voxposer.pdf) [[code]](https://github.com/huangwl18/VoxPoser)
 
-7.Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes (RA-L-2023) <br>
+7. Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes (RA-L-2023) <br>
 [[paper]](https://arxiv.org/pdf/2403.18546) [[code]](https://github.com/THU-VCLab/HGGD?tab=readme-ov-file)
 
 
