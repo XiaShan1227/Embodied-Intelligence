@@ -11,8 +11,8 @@
 4. SAM 3: Segment Anything with Concepts <br>
 [[paper]](https://ai.meta.com/research/publications/sam-3-segment-anything-with-concepts/) [[code]](https://github.com/facebookresearch/sam3?tab=readme-ov-file)
 
-[[Nan Xue]](https://xuenan.net/)
-[[Yuxi Xiao]](https://henry123-boy.github.io/)
+[[Nan Xue]](https://xuenan.net/) <br>
+[[Yuxi Xiao]](https://henry123-boy.github.io/) <br>
 
 
 #### Depth Completion
@@ -74,9 +74,9 @@
 8. Diff-DAgger: Uncertainty Estimation with Diffusion Policy for Robotic Manipulation(ICRA-2025) <br>
 [[paper]](https://arxiv.org/pdf/2410.14868) [[code]](https://github.com/sean1295/DiffDAgger/tree/main)
 
-[[Wenlong Huang]](https://wenlonghuang.com/)
-[[Yanjie Ze]](https://yanjieze.com/)
-[[Yixuan Wang]](http://www.yixuanwang.me/)
+[[Wenlong Huang]](https://wenlonghuang.com/) <br>
+[[Yanjie Ze]](https://yanjieze.com/) <br>
+[[Yixuan Wang]](http://www.yixuanwang.me/) <br>
 
 
 #### Vision Language Action
