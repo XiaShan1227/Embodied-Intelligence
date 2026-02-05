@@ -11,6 +11,9 @@
 4. SAM 3: Segment Anything with Concepts <br>
 [[paper]](https://ai.meta.com/research/publications/sam-3-segment-anything-with-concepts/) [[code]](https://github.com/facebookresearch/sam3?tab=readme-ov-file)
 
+[[Nan Xue]](https://xuenan.net/)
+[[Yuxi Xiao]](https://henry123-boy.github.io/)
+
 
 #### Depth Completion
 
@@ -32,13 +35,16 @@
 1. SpatialTracker: Tracking Any 2D Pixels in 3D Space (CVPR-2024) <br>
 [[paper]](https://arxiv.org/pdf/2404.04319) [[code]](https://github.com/henry123-boy/SpaTracker?tab=readme-ov-file)
 
-2. Tracking Any Point <br>
+2. SpatialTrackerV2: 3D Point Tracking Made Easy (ICCV-2025) <br>
+[[paper]](https://arxiv.org/pdf/2507.12462) [[code]](https://github.com/henry123-boy/SpaTrackerV2)
+
+3. Tracking Any Point <br>
 [[Link]](https://github.com/google-deepmind/tapnet)
 
-3. CoTracker: It is Better to Track Together (ECCV-2024) <br>
+4. CoTracker: It is Better to Track Together (ECCV-2024) <br>
 [[paper]](https://arxiv.org/pdf/2307.07635) [[code]](https://github.com/facebookresearch/co-tracker)
 
-4. PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking (ICCV-2023) <br>
+5. PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking (ICCV-2023) <br>
 [[paper]](https://arxiv.org/pdf/2307.15055) [[code]](https://github.com/aharley/pips2?tab=readme-ov-file)
 
 
@@ -64,6 +70,13 @@
 
 7. Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes (RA-L-2023) <br>
 [[paper]](https://arxiv.org/pdf/2403.18546) [[code]](https://github.com/THU-VCLab/HGGD?tab=readme-ov-file)
+
+8. Diff-DAgger: Uncertainty Estimation with Diffusion Policy for Robotic Manipulation(ICRA-2025) <br>
+[[paper]](https://arxiv.org/pdf/2410.14868) [[code]](https://github.com/sean1295/DiffDAgger/tree/main)
+
+[[Wenlong Huang]](https://wenlonghuang.com/)
+[[Yanjie Ze]](https://yanjieze.com/)
+[[Yixuan Wang]](http://www.yixuanwang.me/)
 
 
 #### Vision Language Action
