@@ -5,10 +5,19 @@
 2. UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation (ICRA-2025) <br>
 [[paper]](https://arxiv.org/pdf/2506.09284) [[code]](https://github.com/TangYihe/unsup-affordance)
 
-3. DINOv3 <br>
+3. Learning Affordance Grounding from Exocentric Images (CVPR-2022) <br>
+[[paper]](https://arxiv.org/pdf/2203.09905) [[code]](https://github.com/lhc1224/Cross-View-AG)
+
+4. Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation (CVPR-2025) <br>
+[[paper]](https://arxiv.org/pdf/2411.18623) [[code]](https://github.com/PKU-HMI-Lab/LIFT3D?tab=readme-ov-file)
+
+5. AffordanceLLM: Grounding Affordance from Vision Language Models (CVPR-2024) <br>
+[[paper]](https://arxiv.org/pdf/2401.06341) [[code]](https://github.com/wj-on-un/AffordanceLLM_implementation?tab=readme-ov-file)
+
+6. DINOv3 <br>
 [[paper]](https://arxiv.org/pdf/2508.10104) [[code]](https://github.com/facebookresearch/dinov3?tab=readme-ov-file)
 
-4. SAM 3: Segment Anything with Concepts <br>
+7. SAM 3: Segment Anything with Concepts <br>
 [[paper]](https://ai.meta.com/research/publications/sam-3-segment-anything-with-concepts/) [[code]](https://github.com/facebookresearch/sam3?tab=readme-ov-file)
 
 [[Nan Xue]](https://xuenan.net/) <br>
@@ -89,3 +98,7 @@
 2. [Isaac Sim](https://github.com/isaac-sim/IsaacSim)
 3. [Isaac Lab](https://github.com/isaac-sim/IsaacLab)
 4. [ROS2](https://ros.org/)
+
+
+### 四、Technical Roadmap
+[[Lumina-Embodied-AI-Guide]](https://lumina-embodied.ai/blog/eai-guide)
