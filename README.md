@@ -80,10 +80,16 @@
 7. VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models (CoRL-2023) <br>
 [[paper]](https://voxposer.github.io/voxposer.pdf) [[code]](https://github.com/huangwl18/VoxPoser)
 
-8. Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes (RA-L-2023) <br>
-[[paper]](https://arxiv.org/pdf/2403.18546) [[code]](https://github.com/THU-VCLab/HGGD?tab=readme-ov-file)
+8. PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation (CVPR-2026) <br>
+[[paper]](https://arxiv.org/pdf/2601.03782) [[code]](https://github.com/NVlabs/PointWorld)
 
-9. Diff-DAgger: Uncertainty Estimation with Diffusion Policy for Robotic Manipulation(ICRA-2025) <br>
+9. Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes (RA-L-2023) <br>
+[[paper]](https://arxiv.org/pdf/2406.01767) [[code]](https://github.com/THU-VCLab/HGGD?tab=readme-ov-file)
+
+10. Region-aware Grasp Framework with Normalized Grasp Space for Efficient 6-DoF Grasping (CoRL-2024) <br>
+[[paper]](https://arxiv.org/pdf/2403.18546) [[code1]](https://github.com/THU-VCLab/RegionNormalizedGrasp) [[code2]](https://github.com/THU-VCLab/RNGNet)
+
+11. Diff-DAgger: Uncertainty Estimation with Diffusion Policy for Robotic Manipulation(ICRA-2025) <br>
 [[paper]](https://arxiv.org/pdf/2410.14868) [[code]](https://github.com/sean1295/DiffDAgger/tree/main)
 
 [[Wenlong Huang]](https://wenlonghuang.com/) <br>
