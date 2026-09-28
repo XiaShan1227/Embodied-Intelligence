@@ -92,6 +92,10 @@
 11. Diff-DAgger: Uncertainty Estimation with Diffusion Policy for Robotic Manipulation(ICRA-2025) <br>
 [[paper]](https://arxiv.org/pdf/2410.14868) [[code]](https://github.com/sean1295/DiffDAgger/tree/main)
 
+
+Real-Time Execution of Action Chunking Flow Policies <br>
+Training-Time Action Conditioning for Efficient Real-Time Chunking
+
 [[Wenlong Huang]](https://wenlonghuang.com/) <br>
 [[Yanjie Ze]](https://yanjieze.com/) <br>
 [[Yixuan Wang]](http://www.yixuanwang.me/) <br>
