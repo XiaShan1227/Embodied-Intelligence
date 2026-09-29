@@ -111,6 +111,9 @@ Training-Time Action Conditioning for Efficient Real-Time Chunking
 #### Vision Language Action
 [[Link]](https://github.com/MINT-SJTU/Evo-SOTA.io?tab=readme-ov-file)
 
+#### World Model for Robot Learning
+[[Link]](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy)
+
 
 ### 三、Framework
 
