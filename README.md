@@ -93,6 +93,13 @@
 [[paper]](https://arxiv.org/pdf/2410.14868) [[code]](https://github.com/sean1295/DiffDAgger/tree/main)
 
 
+GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation
+GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch
+
+π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities
+
+From Foundation to Application: Improving VLA Models in Practice
+
 Real-Time Execution of Action Chunking Flow Policies <br>
 Training-Time Action Conditioning for Efficient Real-Time Chunking
 
